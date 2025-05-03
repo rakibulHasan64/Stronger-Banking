@@ -3,7 +3,7 @@
 function PricingBanner() {
    return (
       <> 
-         <div className="bg-[#FFFFFF] p-4">
+         <div className="bg-[#FFFBF8] p-4">
             <div className="container mx-auto py-20">
                <div className="sm:flex items-center gap-11 justify-around">
                   <div className="py-20">
@@ -14,7 +14,7 @@ function PricingBanner() {
                      </div>
                   </div>
                   <div className="">
-                     <img src="/public/priscingepng.png" alt="" />
+                     <img src="/priscingepng.png" alt="" />
                   </div>
                </div>
 

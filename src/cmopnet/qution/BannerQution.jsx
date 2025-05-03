@@ -18,7 +18,7 @@ function BannerQution() {
                      </div>
                   </div>
                   <div className="sm:mt-6">
-                     <img src="/public/Layer 2.png" alt="Banner Image" />
+                     <img src="/Layer 2.png" alt="Banner Image" />
                   </div>
                </div>
             </div>

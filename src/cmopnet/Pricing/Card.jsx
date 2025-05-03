@@ -11,7 +11,7 @@ function Card() {
                     <img  className="w-[751px] " src="/public/Group 11.png" alt="" />
                   </div>
                   <div className="relative p-3 text-center">
-                     <img className="w-[384px] " src="/public/placeholder.png" alt="" />
+                     <img className="w-[384px] " src="/placeholder.png" alt="" />
 
 
                      <div className="absolute bottom-0 p-5">

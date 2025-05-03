@@ -8,7 +8,7 @@ function Footer() {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-screen-xl mx-auto justify-center items-center">
 
                <div className="">
-                  <img className="mx-auto sm:mx-0" src="/public/Screder_Logo 1.png" alt="" />
+                  <img className="mx-auto sm:mx-0" src="/Screder_Logo 1.png" alt="" />
                   <p className="mt-4 mx-auto sm:mx-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestib ulum mollis lobort ringilla. Duis sed libero sit amet.</p>
                   <div className="space-x-6 space-y-4 text-center mt-4">
 

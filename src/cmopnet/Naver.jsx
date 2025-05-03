@@ -18,7 +18,7 @@ function Navbar() {
 
             {/* Desktop Menu */}
             <div className="hidden md:flex space-x-5">
-               <Link to="/Features" className="text-gray-600 hover:text-purple-600">
+               <Link to="/" className="text-gray-600 hover:text-purple-600">
                   Features
                </Link>
                <Link to="/about" className="text-gray-600 hover:text-purple-600">
@@ -43,7 +43,7 @@ function Navbar() {
 
             {/* Desktop Actions */}
             <div className="hidden lg/ :flex space-x-4 items-center">
-               <Link to="/login" className="text-black hover:underline">
+               <Link  className="text-black hover:underline">
                   Log In
                </Link>
                <Link

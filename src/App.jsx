@@ -14,7 +14,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<OutlatePage />} >
-          <Route path="/Features" element={<AllLayout />} />
+          <Route index element={<AllLayout />} />
           <Route path="about" element={<AboutAllLayout />} />
           <Route path="Pricing" element={<AllPricinge />} />
           <Route path="contact" element={<Allcontact />} />
